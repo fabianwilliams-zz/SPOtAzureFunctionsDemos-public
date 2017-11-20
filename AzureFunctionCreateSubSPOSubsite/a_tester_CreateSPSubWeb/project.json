@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "OfficeDevPnPCore16": "2.6.1608"
+      }
+    }
+   }
+}
